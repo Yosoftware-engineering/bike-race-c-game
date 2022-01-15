@@ -6,16 +6,16 @@ The source code of the Bike Race Game in C++ is written in C++ project format an
 
 Listed below are some of the important user-defined header files in Bike Race game:
 
-variable.h  :- it manages the variables defining the different parameters of the game such as time, jumps, wall etc.
-init.h      :- This header file initializes the game and loads the images used in this bike game.
-process.h   :- This header file had been used in the game in order to control the playing mechanism of game.
-coardinate.h:- For the movement of bike in the window, the coordinates needs to be defined which has been done using this header file in Bike Race Game in C++.
-constants.h :- This header file is made to control the constants su.
-ch as the height, width etc. of wall and other constants used in the source code.
-collision.h :- In the Bike Race Game in C++, this header file is for describing the collision of bike with the wall.
-function.h  :- All the user defined functions are included in this header file.
-menu.h.     :-  The main menu of the game is displayed using this header file.
-The Bike Race Game in C++ is very simple to start, play and terminate. In order to start the game, you should just click at the application file of the game and then click at New Game in the window.
+#variable.h  :- it manages the variables defining the different parameters of the game such as time, jumps, wall etc.
+#init.h      :- This header file initializes the game and loads the images used in this bike game.
+#process.h   :- This header file had been used in the game in order to control the playing mechanism of game.
+#coardinate.h:- For the movement of bike in the window, the coordinates needs to be defined which has been done using this header file in Bike Race Game in C++.
+#constants.h :- This header file is made to control the constants su.
+#ch as the height, width etc. of wall and other constants used in the source code.
+#collision.h :- In the Bike Race Game in C++, this header file is for describing the collision of bike with the wall.
+#function.h  :- All the user defined functions are included in this header file.
+#menu.h.     :-  The main menu of the game is displayed using this header file.
+#The Bike Race Game in C++ is very simple to start, play and terminate. In order to start the game, you should just click at the application file of the game and then click at New Game in the window.
 
 Features:
 
